@@ -1,0 +1,15 @@
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-catalog/app/src/main/java/com/example/musicstorecatalog/models/Label.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-catalog/app/src/main/java/com/example/musicstorecatalog/controller/ExceptionHandlerController.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-catalog/app/src/main/java/com/example/musicstorecatalog/repository/AlbumRepository.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-catalog/app/src/main/java/com/example/musicstorecatalog/controller/ArtistController.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-catalog/app/src/main/java/com/example/musicstorecatalog/repository/TrackRepository.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-catalog/app/src/main/java/com/example/musicstorecatalog/controller/TrackController.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-catalog/app/src/main/java/com/example/musicstorecatalog/models/CustomErrorResponse.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-catalog/app/src/main/java/com/example/musicstorecatalog/controller/LabelController.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-catalog/app/src/main/java/com/example/musicstorecatalog/models/Track.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-catalog/app/src/main/java/com/example/musicstorecatalog/repository/ArtistRepository.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-catalog/app/src/main/java/com/example/musicstorecatalog/controller/AlbumController.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-catalog/app/src/main/java/com/example/musicstorecatalog/models/Artist.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-catalog/app/src/main/java/com/example/musicstorecatalog/MusicstoreCatalogApplication.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-catalog/app/src/main/java/com/example/musicstorecatalog/repository/LabelRepository.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-catalog/app/src/main/java/com/example/musicstorecatalog/models/Album.java

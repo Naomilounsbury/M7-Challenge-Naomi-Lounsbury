@@ -1,0 +1,15 @@
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-recommendations/app/src/main/java/com/example/musicstorerecommendations/repository/TrackRecommendationRepository.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-recommendations/app/src/main/java/com/example/musicstorerecommendations/models/CustomErrorResponse.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-recommendations/app/src/main/java/com/example/musicstorerecommendations/controller/ExceptionHandlerController.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-recommendations/app/src/main/java/com/example/musicstorerecommendations/repository/ArtistRecommendationRepository.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-recommendations/app/src/main/java/com/example/musicstorerecommendations/controller/ArtistRecommendationController.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-recommendations/app/src/main/java/com/example/musicstorerecommendations/models/ArtistRecommendation.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-recommendations/app/src/main/java/com/example/musicstorerecommendations/controller/TrackRecommendationController.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-recommendations/app/src/main/java/com/example/musicstorerecommendations/models/LabelRecommendation.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-recommendations/app/src/main/java/com/example/musicstorerecommendations/controller/AlbumRecommendationController.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-recommendations/app/src/main/java/com/example/musicstorerecommendations/repository/AlbumRecommendationRepository.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-recommendations/app/src/main/java/com/example/musicstorerecommendations/models/TrackRecommendation.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-recommendations/app/src/main/java/com/example/musicstorerecommendations/repository/LabelRecommendationRepository.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-recommendations/app/src/main/java/com/example/musicstorerecommendations/controller/LabelRecommendationController.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-recommendations/app/src/main/java/com/example/musicstorerecommendations/models/AlbumRecommendation.java
+/Users/naomilounsbury/java-projects/M7-Challenge-Lounsbury-Naomi/musicstore-recommendations/app/src/main/java/com/example/musicstorerecommendations/MusicstoreRecommendationsApplication.java
